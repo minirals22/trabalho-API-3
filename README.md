@@ -1,0 +1,19 @@
+/src
+    /controllers
+        AuthController.ts
+        ComentarioController.ts
+        PostController.ts
+        UserController.ts
+    /routes
+        authRoutes.ts
+        comentarioRoutes.ts
+        postRoutes.ts
+        userRoutes.ts
+    /services
+        AuthService.ts
+        ComentarioService.ts
+        PostService.ts
+        UserDataBaseService.ts
+    /utils
+        BcryptUtils.ts
+    index.ts
